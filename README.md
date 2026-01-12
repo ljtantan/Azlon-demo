@@ -1,8 +1,7 @@
-(: Wanna reach out? https://www.linkedin.com/in/harrisonmuchnic/
 # Autonomous Coding Workflow
 ## TLDR 🔴
 ```
-git clone https://github.com/hem9984/Azlon-demo.git
+git clone https://github.com/ljtantan/Azlon-demo.git
 cd Azlon-demo
 ```
 ```
